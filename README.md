@@ -1,2 +1,2 @@
 # theme-clock
-theme-clock web test
+theme-clock web test in html - css - js 
